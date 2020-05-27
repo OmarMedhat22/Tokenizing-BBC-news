@@ -8,3 +8,6 @@ For more information see this [link](https://www.coursera.org/learn/natural-lang
 
 - Tokenization converts the data from its text form to numbers form.
 - In this project, BBC news dataset is tokenized so it can be used in a lot of applications.
+
+
+##### it will be easy to Run this project on colab.
